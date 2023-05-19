@@ -1,6 +1,6 @@
 ### Hello World! 😄
 
-- 👋 I' am Mónica Gómez
+- 👋 I' am Mónica Gómez Vadillo
 - 🔭 I’m currently working as a data scientist in the energy sector
 - 🌱 I’m currently studying the Master Data Science and Business Analytics at IMF Smart Education.
 - 👯 I’m looking to collaborate on any project that help to improve my skills.
