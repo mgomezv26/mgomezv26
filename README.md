@@ -1,7 +1,7 @@
 ### Hello World! 😄
 
 - 👋 I' am Mónica Gómez Vadillo
-- 🔭 I’m currently working on my doctoral thesis in the department of biogeography and global change at the MNCN-CSIC.
+- 🔭 I’m currently working on my doctoral thesis in the department of Biogeography and Global Change at the MNCN-CSIC.
 - 😄 In the past I have worked as a data scientist in the energy sector.
 - 🌱I have studied Biology at the URJC and the Master in Ecology at the UAM. I have also studied the Master Data Science and Business Analytics at IMF Smart Education.
 - 📫 You can reach me on https://www.linkedin.com/in/monicagomezvadillo/
