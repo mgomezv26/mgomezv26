@@ -6,7 +6,7 @@
 - 🌱I have studied Biology at the URJC and the Master in Ecology at the UAM. I have also studied the Master Data Science and Business Analytics at IMF Smart Education.
 - 📫 You can reach me on https://www.linkedin.com/in/monicagomezvadillo/
 
-    <a
+-    <a
     id="cy-effective-orcid-url"
     class="underline"
      href="https://orcid.org/0009-0001-4295-0069"
