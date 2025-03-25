@@ -30,10 +30,8 @@
  <div align="center"  class="icons-social" style="margin-left: 10px;">
         <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/monicagomezvadillo/">
 			<img src="https://img.icons8.com/nolan/64/linkedin.png"></a>
-	 <a style="margin-left: 10px;"  target="_blank" href="https://bsky.app/profile/biomolic.bsky.social">
-		 <img src="https://img.icons8.com/nolan/64/bluesky.png"></a>
-	   <a style="margin-left: 10px;" target="_blank" href="https://dev.to/100rabhcsmc">
-		   <img src="https://img.icons8.com/external-sketchy-juicy-fish/0.6x/external-blog-online-services-sketchy-sketchy-juicy-fish.png"></a>
+	 <a style="margin-left: 10px;" target="_blank" href="https://bsky.app/profile/biomolic.bsky.social">
+		 <img width="64" height="64" src="https://img.icons8.com/nolan/64/bluesky.png" alt="Bluesky Logo"></a>
 	 <a style="margin-left: 10px;" target="_blank" href="https://x.com/BioMolic">
 			<img src="https://img.icons8.com/nolan/64/twitterx.png" ></a>
 	 <a style="margin-left: 10px;" target="_blank" href="https://github.com/mgomezv26/mgomezv26">
