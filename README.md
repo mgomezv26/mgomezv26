@@ -34,7 +34,7 @@
 		 <img src="https://img.icons8.com/nolan/64/bluesky.png"> </a>
 	   <a style="margin-left: 10px;" target="_blank" href="https://dev.to/100rabhcsmc">
 		   <img src="https://img.icons8.com/external-sketchy-juicy-fish/0.6x/external-blog-online-services-sketchy-sketchy-juicy-fish.png"></a>
-	 <a style="margin-left: 10px;" target="_blank" href="[https://twitter.com/100rabhcsmc](https://x.com/BioMolic)">
+	 <a style="margin-left: 10px;" target="_blank" href="https://x.com/BioMolic">
 			<img src="https://img.icons8.com/nolan/64/twitterx.png" ></a>
 	 <a style="margin-left: 10px;" target="_blank" href="https://github.com/mgomezv26/mgomezv26">
 		 <img src="https://img.icons8.com/nolan/64/github.png"></a>
