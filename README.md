@@ -4,22 +4,6 @@
 - 🔭 I’m currently working on my doctoral thesis in the Department of Biogeography and Global Change of the Museo Nacional de Ciencias Naturales (CSIC).
 - 😄 In the past I have worked as a data scientist in the energy sector for two years.
 - 🌱I have studied Biology at the URJC and the Master in Ecology at the UAM. I have also studied the Master Data Science and Business Analytics at IMF Smart Education, indra and UCAV.
-- 📫 You can reach me on https://www.linkedin.com/in/monicagomezvadillo/
-
--    <a
-    id="cy-effective-orcid-url"
-    class="underline"
-     href="https://orcid.org/0009-0001-4295-0069"
-     target="orcid.widget"
-     rel="me noopener noreferrer"
-     style="vertical-align: top">
-     <img
-        src="https://orcid.org/sites/default/files/images/orcid_16x16.png"
-        style="width: 1em; margin-inline-start: 0.5em"
-        alt="ORCID iD icon"/>
-      https://orcid.org/0009-0001-4295-0069
-    </a>
-
 
 
 <br/>
@@ -38,6 +22,8 @@
 		 <img src="https://img.icons8.com/nolan/64/github.png"></a>
 	 <a style="margin-left: 10px;" target="_blank" href="https://scholar.google.com/citations?user=ThkATL0AAAAJ&hl=es">
 		 <img src="https://img.icons8.com/nolan/64/google-scholar.png"></a>
+	 <a style="margin-left: 10px;" target="_blank" href="https://orcid.org/0009-0001-4295-0069">
+		 <img src="https://github.com/mgomezv26/mgomezv26/raw/main/icons8-orcid.svg"></a>
    	 <a style="margin-left: 10px;" target="_blank" href="https://www.researchgate.net/profile/Monica-Gomez-Vadillo?ev=hdr_xprf">
 		 <img src="https://img.icons8.com/external-tal-revivo-green-tal-revivo/36/external-researchgate-a-social-networking-site-for-scientists-and-researchers-to-share-papers-logo-green-tal-revivo.png"></a>
       </div>
