@@ -36,6 +36,10 @@
 			<img src="https://img.icons8.com/nolan/64/twitterx.png" ></a>
 	 <a style="margin-left: 10px;" target="_blank" href="https://github.com/mgomezv26/mgomezv26">
 		 <img src="https://img.icons8.com/nolan/64/github.png"></a>
+	 <a style="margin-left: 10px;" target="_blank" href="https://scholar.google.com/citations?user=ThkATL0AAAAJ&hl=es">
+		 <img src="https://img.icons8.com/nolan/64/google-scholar.png"></a>
+   	 <a style="margin-left: 10px;" target="_blank" href="https://www.researchgate.net/profile/Monica-Gomez-Vadillo?ev=hdr_xprf">
+		 <img src="https://img.icons8.com/external-tal-revivo-green-tal-revivo/36/external-researchgate-a-social-networking-site-for-scientists-and-researchers-to-share-papers-logo-green-tal-revivo.png"></a>
       </div>
 
 </p>
