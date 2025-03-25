@@ -29,15 +29,15 @@
 
  <div align="center"  class="icons-social" style="margin-left: 10px;">
         <a style="margin-left: 10px;"  target="_blank" href="[https://www.linkedin.com/in/saurabhmchavan/](https://www.linkedin.com/in/monicagomezvadillo/)">
-			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
+			<img src="https://img.icons8.com/nolan/64/linkedin.png"></a>
         <a style="margin-left: 10px;" target="_blank" href="https://github.com/100rabhcsmc">
-		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
+		<img src="https://img.icons8.com/nolan/64/github.png"></a>
 	 <a style="margin-left: 10px;" target="_blank" href="https://bsky.app/profile/biomolic.bsky.social">
-    <img src="https://github.com/mgomezv26/mgomezv26/raw/main/bluesky_32px.svg" width="40" height="40" alt="Bluesky Logo"> </a>
+		 <img src="https://img.icons8.com/nolan/64/bluesky.png"> </a>
 	   <a style="margin-left: 10px;" target="_blank" href="https://dev.to/100rabhcsmc">
 		   <img src="https://img.icons8.com/external-sketchy-juicy-fish/0.6x/external-blog-online-services-sketchy-sketchy-juicy-fish.png"></a>
-		<a style="margin-left: 10px;" target="_blank" href="[https://twitter.com/100rabhcsmc](https://x.com/BioMolic)">
-			<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>
+	 <a style="margin-left: 10px;" target="_blank" href="[https://twitter.com/100rabhcsmc](https://x.com/BioMolic)">
+			<img src="https://img.icons8.com/nolan/64/twitterx.png" ></a>
       </div>
 
 </p>
