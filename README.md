@@ -39,7 +39,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,r,postgres,mysql,vscode,pycharm,git,wordpress" />
+    <img src="https://skillicons.dev/icons?i=py,r,postgres,mysql,vscode,pycharm,git," />
   </a>
 </p>
 
