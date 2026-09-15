@@ -26,7 +26,10 @@
 	 <a style="margin-left: 10px;" target="_blank" href="https://scholar.google.com/citations?user=ThkATL0AAAAJ&hl=es">
 		 <img src="https://img.icons8.com/?size=100&id=drPiDBy9kkJ3&format=png&color=000000"></a>
 	 <a style="margin-left: 10px;" target="_blank" href="https://orcid.org/0009-0001-4295-0069">
-		 <img src="https://github.com/mgomezv26/mgomezv26/raw/main/icons8-orcid.svg"></a>
+    <img src="https://github.com/mgomezv26/mgomezv26/raw/main/icons8-orcid.svg"
+        width="100"
+        height="100"
+        alt="ORCID"> </a>
    	 <a style="margin-left: 10px;" target="_blank" href="https://www.researchgate.net/profile/Monica-Gomez-Vadillo?ev=hdr_xprf">
 		 <img src="https://img.icons8.com/?size=100&id=eF2TzAMt3p0H&format=png&color=000000"></a>
       </div>
