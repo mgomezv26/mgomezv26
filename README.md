@@ -16,19 +16,19 @@
 
  <div align="center"  class="icons-social" style="margin-left: 10px;">
         <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/monicagomezvadillo/">
-			<img src="https://img.icons8.com/nolan/64/linkedin.png"></a>
+			<img src="https://img.icons8.com/?size=100&id=kBCrQMzpQDLQ&format=png&color=000000"></a>
 	 <a style="margin-left: 10px;" target="_blank" href="https://bsky.app/profile/biomolic.bsky.social">
-		 <img width="64" height="64" src="https://img.icons8.com/nolan/64/bluesky.png" alt="Bluesky Logo"></a>
+		 <img src="https://img.icons8.com/?size=100&id=3ovMFy5JDSWq&format=png&color=000000" alt="Bluesky Logo"></a>
 	 <a style="margin-left: 10px;" target="_blank" href="https://x.com/BioMolic">
-			<img src="https://img.icons8.com/nolan/64/twitterx.png" ></a>
+			<img src="https://img.icons8.com/?size=100&id=oaaSr6h7kwm6&format=png&color=000000" ></a>
 	 <a style="margin-left: 10px;" target="_blank" href="https://github.com/mgomezv26/mgomezv26">
-		 <img src="https://img.icons8.com/nolan/64/github.png"></a>
+		 <img src="https://img.icons8.com/?size=100&id=LoL4bFzqmAa0&format=png&color=000000"></a>
 	 <a style="margin-left: 10px;" target="_blank" href="https://scholar.google.com/citations?user=ThkATL0AAAAJ&hl=es">
-		 <img src="https://img.icons8.com/nolan/64/google-scholar.png"></a>
+		 <img src="https://img.icons8.com/?size=100&id=drPiDBy9kkJ3&format=png&color=000000"></a>
 	 <a style="margin-left: 10px;" target="_blank" href="https://orcid.org/0009-0001-4295-0069">
 		 <img src="https://github.com/mgomezv26/mgomezv26/raw/main/icons8-orcid.svg"></a>
    	 <a style="margin-left: 10px;" target="_blank" href="https://www.researchgate.net/profile/Monica-Gomez-Vadillo?ev=hdr_xprf">
-		 <img src="https://img.icons8.com/external-tal-revivo-green-tal-revivo/36/external-researchgate-a-social-networking-site-for-scientists-and-researchers-to-share-papers-logo-green-tal-revivo.png"></a>
+		 <img src="https://img.icons8.com/?size=100&id=eF2TzAMt3p0H&format=png&color=000000"></a>
       </div>
 <hr>
 
