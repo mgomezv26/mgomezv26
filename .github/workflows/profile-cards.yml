@@ -1,0 +1,29 @@
+name: Update GitHub profile cards
+
+on:
+  schedule:
+    - cron: "17 3 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  profile-cards:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v7
+
+      - name: Generate profile cards
+        uses: seijikohara/profile-cards-action@v1
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          username: mgomezv26
+          cards: overview,contributions,languages
+          output-dir: profile
+          themes: light,dark
+          language-limit: 8
+          commit: true
+          commit-message: "chore: update GitHub profile stats [skip ci]"
