@@ -16,28 +16,28 @@
 
 <div align="center" class="icons-social">
     <a target="_blank" href="https://www.linkedin.com/in/monicagomezvadillo/">
-        <img src="https://img.icons8.com/?size=80&id=kBCrQMzpQDLQ&format=png&color=000000"></a>
+        <img src="https://img.icons8.com/?size=70&id=kBCrQMzpQDLQ&format=png&color=000000"></a>
     <a target="_blank" href="https://bsky.app/profile/biomolic.bsky.social">
-        <img src="https://img.icons8.com/?size=80&id=3ovMFy5JDSWq&format=png&color=000000"
+        <img src="https://img.icons8.com/?size=70&id=3ovMFy5JDSWq&format=png&color=000000"
              alt="Bluesky"></a>
     <a target="_blank" href="https://mgomezv26.github.io/BioMolic/">
-        <img src="https://img.icons8.com/?size=80&id=UuZbMO5c0AHj&format=png&color=000000"
+        <img src="https://img.icons8.com/?size=70&id=UuZbMO5c0AHj&format=png&color=000000"
              alt="Website"></a>
     <a target="_blank" href="https://scholar.google.com/citations?user=ThkATL0AAAAJ&hl=es">
-        <img src="https://img.icons8.com/?size=80&id=drPiDBy9kkJ3&format=png&color=000000"
+        <img src="https://img.icons8.com/?size=70&id=drPiDBy9kkJ3&format=png&color=000000"
              alt="Google Scholar"></a>
     <a target="_blank" href="https://orcid.org/0009-0001-4295-0069">
         <img src="https://github.com/mgomezv26/mgomezv26/raw/main/icons8-orcid.svg"
-             width="80"
+             width="70"
            alt="ORCID"></a>
     <a target="_blank" href="https://www.researchgate.net/profile/Monica-Gomez-Vadillo?ev=hdr_xprf">
-        <img src="https://img.icons8.com/?size=80&id=eF2TzAMt3p0H&format=png&color=000000"
+        <img src="https://img.icons8.com/?size=70&id=eF2TzAMt3p0H&format=png&color=000000"
              alt="ResearchGate"></a>
     <a target="_blank" href="https://x.com/BioMolic">
-        <img src="https://img.icons8.com/?size=80&id=oaaSr6h7kwm6&format=png&color=000000"
+        <img src="https://img.icons8.com/?size=70&id=oaaSr6h7kwm6&format=png&color=000000"
              alt="X"></a>	
     <a target="_blank" href="https://github.com/mgomezv26/mgomezv26">
-        <img src="https://img.icons8.com/?size=80&id=LoL4bFzqmAa0&format=png&color=000000"
+        <img src="https://img.icons8.com/?size=70&id=LoL4bFzqmAa0&format=png&color=000000"
              alt="GitHub"></a>
 </div>
 
