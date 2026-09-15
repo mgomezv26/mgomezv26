@@ -44,32 +44,49 @@
 <hr>
 
 <h3 align="center">
-  <img src="https://media.giphy.com/media/KGhpQ5NMoWKQurlHwI/giphy.gif?cid=ecf05e47zryabwjged3523v4w02vs20znvvlic3y5sjjbvas&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="30" height="30" style="margin-right: 10px;"> 
-  My working tools...
+  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif"
+       width="30"
+       height="30">
+  Git Activity
 </h3>
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,r,postgres,mysql,vscode,pycharm,git," />
-  </a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+            srcset="./profile/overview.dark.svg">
+    <source media="(prefers-color-scheme: light)"
+            srcset="./profile/overview.light.svg">
+    <img src="./profile/overview.dark.svg"
+         alt="GitHub Overview"
+         width="750">
+  </picture>
 </p>
 
 <p align="center">
-  <code><img height="50" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg"></code>
-  <code><img height="50" src="https://www.vectorlogo.zone/logos/qgis/qgis-icon.svg"></code>
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+            srcset="./profile/contributions.dark.svg">
+    <source media="(prefers-color-scheme: light)"
+            srcset="./profile/contributions.light.svg">
+    <img src="./profile/contributions.dark.svg"
+         alt="GitHub Contributions"
+         width="750">
+  </picture>
 </p>
 
-<h3 align="center" > <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30" height="30" style="margin-right: 10px;">Git Activeness </h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mgomezv26&show_icons=true&locale=en&layout=compact&theme=tokyonight&bg_color=0A0A0A" alt="Top Languages" /></p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=mgomezv26&show_icons=true&locale=en&theme=tokyonight&bg_color=0A0A0A" alt="ovi" width="410" /></p>
-<br><br><br><br><br>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+            srcset="./profile/languages.dark.svg">
+    <source media="(prefers-color-scheme: light)"
+            srcset="./profile/languages.light.svg">
+    <img src="./profile/languages.dark.svg"
+         alt="Programming Languages"
+         width="750">
+  </picture>
+</p>
 
 <hr>
-
-
-
-
-
 
 
 
