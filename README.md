@@ -1,7 +1,7 @@
 ### Hello World! 😄
 <hr>
 <h1 align="center"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I am Mónica Gómez-Vadillo </h1>
-<h3 align="center">PhD Student (Biogeography & Macroecology) | Data Scientist </h3>
+<h3 align="center">PhD Student (Biogeography & Macroecology) | Data Scientist | AI Engineering Student </h3>
 
 - 👋 I' am Mónica Gómez-Vadillo
 - 🔭 I’m currently working on my doctoral thesis in the Department of Biogeography and Global Change of the Museo Nacional de Ciencias Naturales (CSIC).
