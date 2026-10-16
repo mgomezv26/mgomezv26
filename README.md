@@ -29,23 +29,23 @@ My background combines professional experience in **machine learning, predictive
 
 **Programming & Data**
 
-Python · R · SQL · Pandas · NumPy
+- Python · R · SQL · Pandas · NumPy
 
 **Machine Learning & Analytics**
 
-scikit-learn · TensorFlow · Keras · Statistical Modelling · Predictive Analytics
+- scikit-learn · TensorFlow · Keras · Statistical Modelling · Predictive Analytics
 
 **Applications & Visualization**
 
-Dash · Streamlit · Plotly · Matplotlib · ggplot2 · Power BI · QGIS
+- Dash · Streamlit · Plotly · Matplotlib · ggplot2 · Power BI · QGIS
 
 **Development & Automation**
 
-Git · GitHub · GitHub Copilot · Codex · REST APIs · n8n · VS Code
+- Git · GitHub · GitHub Copilot · Codex · REST APIs · n8n · VS Code
 
 **Currently Exploring**
 
-AI Engineering · LLMs · RAG · AI Agents · FastAPI · Docker · Backend Development
+- AI Engineering · LLMs · RAG · AI Agents · FastAPI · Docker · Backend Development
 
 ### 🚀 Featured Projects
 
