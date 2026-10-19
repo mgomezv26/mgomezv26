@@ -67,6 +67,13 @@ An interactive finance management application for tracking expenses, savings and
 
 **Stack:** Python · Streamlit · Pandas · Google Sheets API
 
+#### 🎨 [molicgv.art — Art Portfolio](https://mgomezv26.github.io/molicgv-art/)
+
+A personal art portfolio built from scratch to showcase textured acrylic paintings. Designed as a responsive static website with semantic HTML, accessible navigation, Schema.org microdata and optimized WebP imagery.
+
+**Stack:** HTML5 · CSS3 · GitHub Pages  
+**Links:** [Live website](https://mgomezv26.github.io/molicgv-art/) · [Source code](https://github.com/mgomezv26/molicgv-art)
+
 ### 🎓 Academic Background
 
 - **PhD in Ecology (ongoing)** — Universidad Autónoma de Madrid / MNCN-CSIC | 2024–Present
