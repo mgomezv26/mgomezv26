@@ -23,7 +23,7 @@ My background combines professional experience in **machine learning, predictive
 - 💻 **Building:** NHEX, an interactive application for environmental niche modelling, developed with Python, Dash and R.
 - 📊 **Previously:** Worked as a Data Scientist in the energy sector, developing forecasting models and automated data workflows.
 - 🤖 **Learning:** AI Engineering at 4Geeks Academy, including AI-assisted development, LLM applications and agentic systems.
-- 🌍 **Interested in:** Applied AI, Data Science, scientific computing and building useful software.
+- 🌍 **Interested in:** AI Engineering, Applied AI, Data Science, scientific computing and building useful software.
 
 ### 🛠️ Technologies & Tools
 
