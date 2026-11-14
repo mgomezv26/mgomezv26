@@ -1,110 +1,182 @@
 
-### Hello World! 👋
+<div align="center">
 
-<h1 align="center">I'm Mónica Gómez-Vadillo</h1>
-<h3 align="center">Data Scientist | PhD Researcher | Specializing in AI Engineering</h3>
+<h1>Hi, I'm Mónica Gómez-Vadillo 👋</h1>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/monicagomezvadillo/">LinkedIn</a> •
-  <a href="https://github.com/mgomezv26">GitHub</a> •
-  <a href="https://mgomezv26.github.io/BioMolic/">Website</a> •
-  <a href="https://scholar.google.com/citations?user=ThkATL0AAAAJ&hl=es">Google Scholar</a>
+<h3>AI Engineer in Training | Data Scientist | PhD Researcher</h3>
+
+<p>
+  Building intelligent applications at the intersection of AI,
+  software engineering, data science and scientific research.
 </p>
+
+<p>📍 Madrid, Spain</p>
+
+<p>
+  <a href="https://portfolio-monica-gomez-vadillo.vercel.app/en/">🌐 Portfolio</a> ·
+  <a href="https://www.linkedin.com/in/monicagomezvadillo/">💼 LinkedIn</a> ·
+  <a href="https://scholar.google.com/citations?user=ThkATL0AAAAJ&hl=es">🔬 Google Scholar</a> ·
+  <a href="https://orcid.org/0009-0001-4295-0069">🆔 ORCID</a>
+</p>
+
+<p>
+  🌐 <strong>English</strong> |
+  <a href="README.es.md">Español</a>
+</p>
+
+</div>
 
 ---
 
-### 👩‍💻 About Me
+## About Me
 
-I'm a **Data Scientist and PhD Researcher** at the **Museo Nacional de Ciencias Naturales (MNCN-CSIC)** in Madrid, Spain.
+I'm a **Data Scientist and PhD Researcher in Ecology** at the Museo Nacional de Ciencias Naturales (MNCN-CSIC), Madrid, currently expanding my expertise into **AI Engineering and software development**.
 
-My background combines professional experience in **machine learning, predictive analytics and data pipelines** with scientific research involving large-scale biodiversity datasets, statistical modelling and software development.
+My background combines professional experience in data science, machine learning and predictive analytics with scientific research involving large-scale biodiversity datasets, geospatial analysis and statistical modelling.
 
-- 🔬 **Currently:** Researching ecological niches and species co-occurrence at large geographical scales.
-- 💻 **Building:** NHEX, an interactive application for environmental niche modelling, developed with Python, Dash and R.
-- 📊 **Previously:** Worked as a Data Scientist in the energy sector, developing forecasting models and automated data workflows.
-- 🤖 **Learning:** AI Engineering at 4Geeks Academy, including AI-assisted development, LLM applications and agentic systems.
-- 🌍 **Interested in:** AI Engineering, Applied AI, Data Science, scientific computing and building useful software.
+I'm currently completing an **AI Engineering program at 4Geeks Academy**, focusing on building practical applications, integrating LLMs and APIs, automating workflows and developing software with AI-assisted engineering tools.
 
-### 🛠️ Technologies & Tools
+I enjoy turning complex ideas and data into useful, understandable applications.
 
-**Programming & Data**
+- 🔬 **Researching:** Environmental niches, biodiversity patterns and species coexistence across spatial scales.
+- 🧠 **Exploring:** LLM applications, AI agents, automation and AI engineering.
+- 💻 **Building:** Scientific software, web applications and data-driven tools.
+- 🚀 **Currently interested in:** Junior AI Engineering, Applied AI, Machine Learning and Data Science opportunities.
+- 🌍 **Open to:** Remote and hybrid opportunities, professional collaborations and interesting projects.
 
-- Python · R · SQL · Pandas · NumPy
+---
 
-**Machine Learning & Analytics**
+## Tech Stack
 
-- scikit-learn · TensorFlow · Keras · Statistical Modelling · Predictive Analytics
+### Programming & Data
 
-**Applications & Visualization**
+`Python` · `R` · `SQL` · `JavaScript` · `TypeScript` · `Pandas` · `NumPy` · `GeoPandas`
 
-- Dash · Streamlit · Plotly · Matplotlib · ggplot2 · Power BI · QGIS
+### Machine Learning & Scientific Computing
 
-**Development & Automation**
+`scikit-learn` · `TensorFlow` · `Keras` · `Statistical Modelling` · `Predictive Analytics` · `QGIS`
 
-- Git · GitHub · GitHub Copilot · Codex · REST APIs · n8n · VS Code
+### AI & Automation
 
-**Currently Exploring**
+`n8n` · `LLM APIs` · `Groq` · `REST APIs` · `AI-assisted Development` · `Codex` · `GitHub Copilot`
 
-- AI Engineering · LLMs · RAG · AI Agents · FastAPI · Docker · Backend Development
+### Web Development & Visualisation
 
-### 🚀 Featured Projects
+`React` · `HTML5` · `CSS3` · `Tailwind CSS` · `Vite` · `Streamlit` · `Dash` · `Plotly` · `Matplotlib`
 
-#### 🔬 NHEX — Niche Hypervolume Explorer
+### Development Practices & Tools
 
-An interactive scientific application for multidimensional environmental niche analysis, combining Python/Dash interfaces with R-based statistical computation.
+`Git` · `GitHub` · `VS Code` · `Jupyter` · `Software Design Documentation (SDD)` · `Agent-assisted Workflows`
 
-**Stack:** Python · Dash · R · Plotly
+My experience spans professional applications, scientific research and ongoing training. I distinguish established experience from technologies I'm currently learning.
 
-#### 🤖 [SnackCheck — AI-powered Nutrition Workflow](https://github.com/mgomezv26/snackcheck-nutrition-check-n8n)
+---
 
-An automated workflow that integrates the OpenFoodFacts and Groq APIs to retrieve food product information and generate nutritional feedback using an LLM.
+## Featured Projects
 
-**Stack:** n8n · JavaScript · REST APIs · Groq
+### 🔬 NHEX — Niche Hypervolume Explorer
 
-#### 📊 Personal Finance Dashboard
+**Scientific Software | Ecological Modelling | Data Visualisation**
 
-An interactive finance management application for tracking expenses, savings and housing goals, using Python, Streamlit and Google Sheets.
+A scientific application for exploring and comparing species' multidimensional environmental niches.
 
-**Stack:** Python · Streamlit · Pandas · Google Sheets API
+Combines a Python/Dash interface with R-based hypervolume calculations, interactive visualisations, geospatial processing and niche comparison metrics.
 
-#### 🎨 [molicgv.art — Art Portfolio](https://mgomezv26.github.io/molicgv-art/)
+**Tech:** Python · Dash · R · Geospatial Analysis · Scientific Computing
 
-A personal art portfolio built from scratch to showcase textured acrylic paintings. Designed as a responsive static website with semantic HTML, accessible navigation, Schema.org microdata and optimized WebP imagery.
+**Status:** Active research software development.
 
-**Stack:** HTML5 · CSS3 · GitHub Pages  
-**Links:** [Live website](https://mgomezv26.github.io/molicgv-art/) · [Source code](https://github.com/mgomezv26/molicgv-art)
+[Explore NHEX in my portfolio](https://portfolio-monica-gomez-vadillo.vercel.app/en/#projects)
 
-### 🎓 Academic Background
+### 🤖 SnackCheck — Nutrition Verdict Workflow
 
-- **PhD in Ecology (ongoing)** — Universidad Autónoma de Madrid / MNCN-CSIC | 2024–Present
-- **AI Engineering Program (in progress)** — 4Geeks Academy | 2026–Present
+**AI Integration | Automation | API Development**
+
+An automated nutrition-analysis workflow developed with n8n, JavaScript, Open Food Facts and the Groq API.
+
+It combines deterministic nutritional rules with LLM-generated explanations, keeping the classification logic separate from the language model.
+
+**Tech:** n8n · JavaScript · REST APIs · Groq · LLM Integration
+
+[View source code](https://github.com/mgomezv26/snackcheck-nutrition-check-n8n) · [Explore project](https://portfolio-monica-gomez-vadillo.vercel.app/en/#projects)
+
+### 🍽️ ¿Qué comemos? — Weekly Meal Planner
+
+**Web Development | Application Design | Personal Project**
+
+An evolving web application designed to simplify weekly meal planning, recipe management and shopping organisation.
+
+Built around a shared recipe collection, with meal-planning and recipe-browsing interfaces.
+
+**Tech:** React · TypeScript · Vite · Tailwind CSS · Supabase
+
+**Status:** Work in progress. Source repository currently private.
+
+[Explore project](https://portfolio-monica-gomez-vadillo.vercel.app/en/#projects)
+
+### 🌍 European Toad Species Distribution Modelling
+
+**Machine Learning | Geospatial Data Science | Master's Thesis — 2024**
+
+A research project applying Random Forest classifiers to model environmental suitability patterns for three European toad species across a historical baseline and climate scenarios for 2050.
+
+Includes biodiversity data processing, environmental predictor integration, geospatial analysis, model evaluation and scientific visualisation.
+
+The original historical outputs are preserved, with methodological limitations and reproducibility constraints documented.
+
+**Tech:** Python · R · Random Forest · scikit-learn · GeoPandas · QGIS
+
+[View research repository](https://github.com/mgomezv26/SDM_Bufonidae)
+
+### 🎨 Molicgv Art Studio — Artist Portfolio Website
+
+**Frontend Development | Responsive Web Design**
+
+A responsive website developed to showcase an artist's acrylic paintings and creative work.
+
+Built using semantic HTML and CSS, with responsive layouts, accessibility considerations, structured metadata and optimised imagery.
+
+**Tech:** HTML5 · CSS3 · Git · GitHub Pages
+
+[Live website](https://mgomezv26.github.io/molicgv-art/) · [Source code](https://github.com/mgomezv26/molicgv-art)
+
+---
+
+## Research & Academic Background
+
+### PhD in Ecology — In Progress
+
+**Universidad Autónoma de Madrid | MNCN-CSIC**
+
+*2024–Present · Expected completion: 2027*
+
+My doctoral research investigates the relationship between species' environmental niches and coexistence patterns across spatial scales.
+
+I develop data-processing pipelines, ecological models, geospatial analyses and scientific software using Python and R.
+
+**International research experience:** Visiting Researcher at the Institute of Marine Research (IMR), Norway — March–May 2025.
+
+### Education
+
+- **AI Engineering Program** — 4Geeks Academy | 2026–Present
+- **PhD in Ecology** — Universidad Autónoma de Madrid | Expected 2027
 - **MSc in Data Science and Business Analytics** — IMF / UCAV / Indra
 - **MSc in Ecology** — Universidad Autónoma de Madrid
 - **BSc in Biology** — Universidad Rey Juan Carlos
 
-My research has resulted in peer-reviewed scientific publications and presentations at national and international conferences.
+My research includes peer-reviewed scientific publications and presentations at national and international conferences.
 
-### 🤝 Connect with Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/monicagomezvadillo/"><img src="https://img.icons8.com/?size=70&id=kBCrQMzpQDLQ&format=png&color=000000" alt="LinkedIn" width="42"></a>
-  <a href="https://bsky.app/profile/biomolic.bsky.social"><img src="https://img.icons8.com/?size=70&id=3ovMFy5JDSWq&format=png&color=000000" alt="Bluesky" width="42"></a>
-  <a href="https://mgomezv26.github.io/BioMolic/"><img src="https://img.icons8.com/?size=70&id=UuZbMO5c0AHj&format=png&color=000000" alt="Website" width="42"></a>
-  <a href="https://scholar.google.com/citations?user=ThkATL0AAAAJ&hl=es"><img src="https://img.icons8.com/?size=70&id=drPiDBy9kkJ3&format=png&color=000000" alt="Google Scholar" width="42"></a>
-  <a href="https://orcid.org/0009-0001-4295-0069"><img src="https://github.com/mgomezv26/mgomezv26/raw/main/icons8-orcid.svg" width="42" alt="ORCID"></a>
-  <a href="https://www.researchgate.net/profile/Monica-Gomez-Vadillo?ev=hdr_xprf"><img src="https://img.icons8.com/?size=70&id=eF2TzAMt3p0H&format=png&color=000000" width="42" alt="ResearchGate"></a>
-  <a href="https://x.com/BioMolic"><img src="https://img.icons8.com/?size=70&id=oaaSr6h7kwm6&format=png&color=000000" width="42" alt="X"></a>
-</p>
+[Google Scholar](https://scholar.google.com/citations?user=ThkATL0AAAAJ&hl=es) · [ORCID](https://orcid.org/0009-0001-4295-0069) · [ResearchGate](https://www.researchgate.net/profile/Monica-Gomez-Vadillo?ev=hdr_xprf)
 
 ---
 
-### 📈 GitHub Activity
+## GitHub Activity
 
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./profile/overview.dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="./profile/overview.light.svg">
-    <img src="./profile/overview.dark.svg" alt="GitHub Overview" width="750">
+    <img src="./profile/overview.dark.svg" alt="GitHub activity overview" width="750">
   </picture>
 </p>
 
@@ -112,7 +184,7 @@ My research has resulted in peer-reviewed scientific publications and presentati
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./profile/contributions.dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="./profile/contributions.light.svg">
-    <img src="./profile/contributions.dark.svg" alt="GitHub Contributions" width="750">
+    <img src="./profile/contributions.dark.svg" alt="GitHub contributions" width="750">
   </picture>
 </p>
 
@@ -120,11 +192,16 @@ My research has resulted in peer-reviewed scientific publications and presentati
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./profile/languages.dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="./profile/languages.light.svg">
-    <img src="./profile/languages.dark.svg" alt="Programming Languages" width="750">
+    <img src="./profile/languages.dark.svg" alt="Programming languages overview" width="750">
   </picture>
 </p>
 
 ---
 
-<p align="center"><em>Open to opportunities in Data Science, Applied AI and AI Engineering.</em></p>
-  
+## Let's Connect
+
+I'm interested in opportunities to apply and expand my experience in **AI Engineering, Machine Learning and Data Science**, combining technical development with a strong scientific and analytical background.
+
+[🌐 Portfolio](https://portfolio-monica-gomez-vadillo.vercel.app/en/) · [💼 LinkedIn](https://www.linkedin.com/in/monicagomezvadillo/) · [🔬 Google Scholar](https://scholar.google.com/citations?user=ThkATL0AAAAJ&hl=es) · [🦋 Bluesky](https://bsky.app/profile/biomolic.bsky.social) · [𝕏 X](https://x.com/BioMolic)
+
+**From scientific questions to intelligent software.**
